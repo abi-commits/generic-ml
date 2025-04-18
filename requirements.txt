@@ -5,5 +5,7 @@ matplotlib
 seaborn
 jupyter
 scipy
+catboost
+xgboost
 
 -e .
