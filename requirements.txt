@@ -7,5 +7,6 @@ jupyter
 scipy
 catboost
 xgboost
+dill
 
 -e .
